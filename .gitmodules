@@ -1,0 +1,6 @@
+[submodule "typescript"]
+	path = typescript
+	url = https://github.com/ramya487/typescript
+[submodule "chatv1"]
+	path = chatv1
+	url = https://github.com/ramya487/chatv1
