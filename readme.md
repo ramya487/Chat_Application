@@ -34,5 +34,5 @@ This is a sophisticated chat application that allows us to perform one-on-one as
 - Real-time communication: Socket.IO
 
 ## Demo
-
+https://github.com/user-attachments/assets/a164fad1-2a70-4483-bfe7-a777c1065a73
 
