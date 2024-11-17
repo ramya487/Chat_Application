@@ -27,11 +27,22 @@ This is a sophisticated chat application that allows us to perform one-on-one as
 
 ## Tech Stack
 
-- Frontend: Next.js, Typescript, Tailwind, Chakra UI, Formik, Yup, Zustand
-- Backend: Node.js, Express.js, JWT, Typescript, Multer
-- Database: MongoDB
-- Storage: Supabase
-- Real-time communication: Socket.IO
+![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ChakraUI-%23319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Formik-%232563EB?style=for-the-badge&logo=formik&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Supabase-%233FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Static Badge](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Static Badge](https://img.shields.io/badge/pnpm-%23F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
 
 ## Demo
 https://github.com/user-attachments/assets/a164fad1-2a70-4483-bfe7-a777c1065a73
